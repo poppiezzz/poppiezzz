@@ -16,9 +16,8 @@ i find everyone cool! enzo is easily irritable so i'd advise unless your moots w
 
 / genderfluid \
 
+status: int // offtab, school /
 
-<style>
-table table table td { vertical-align: top; !important; }
-span.blacktext12 { visibility: visible !important; background-image: url('https://dl8.glitter-graphics.net/pub/116/116588wfdv34o6b7.jpg'); background-repeat: no-repeat; background-position: center center; background-color: transparent; font-size: 0px; letter-spacing: -0.5px; width: 435px; height: 75px; display: block !important; }
-span.blacktext12 img { display: none; }
-</style><br><a href=https://www.glitter-graphics.com>Extended Network Banners</a>
+i have roblox / ask 4 user if ya want
+
+<img width="500" height="500" alt="aesthetic-purple-background-glittergfx" src="https://github.com/user-attachments/assets/fdb7a4c7-d792-400a-8cda-777b2dcbf6cc" />
